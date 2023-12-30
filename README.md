@@ -18,7 +18,6 @@ Sou um desenvolvedor back-end e entusiasta de DevOps do Brasil.
   <img align="center" alt="Codecraft desenvolvendo Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Codecraft desenvolvendo Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Codecraft desenvolvendo no Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Codecraft desenvolvendo Html3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html3/html3-plain-wordmark.svg">
   <img align="center" alt="Codecraft desenvolvendo R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Codecraft desenvolvendo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Codecraft desenvolvendo Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
