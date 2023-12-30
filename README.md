@@ -24,7 +24,3 @@ Sou um desenvolvedor back-end e entusiasta de DevOps do Brasil.
   <img align="center" alt="Codecraft desenvolvendo Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Codecraft desenvolvendo no Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </div>
-
-### Sobre mim:
-
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>](https://github.com/code
