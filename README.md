@@ -5,7 +5,7 @@ Sou um desenvolvedor back-end e entusiasta de DevOps do Brasil.
   <a href="https://github.com/codecraft">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=codecraft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecraft&layout=compact&langs_count=16&theme=dark"/>
-<div>
+</div>
 
 ### Você provavelmente encontrará aqui:
 
@@ -22,9 +22,9 @@ Sou um desenvolvedor back-end e entusiasta de DevOps do Brasil.
   <img align="center" alt="Codecraft desenvolvendo R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Codecraft desenvolvendo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Codecraft desenvolvendo Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Codecraft desenvolvendo no Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Codecraft desenvolvendo no Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 </div>
 
 ### Sobre mim:
 
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>](https://github.com
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>](https://github.com/code
