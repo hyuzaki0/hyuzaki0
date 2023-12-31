@@ -1,4 +1,4 @@
-### OLÁ, SOU UM MERO ENTUSIASTA APRENDENDO A CRIAR UNS CÓDIGOS 😁
+### SOU UM MERO ENTUSIASTA APRENDENDO A CRIAR UNS CÓDIGOS 😁
 
 <div>
   <a href="https://github.com/hyuzaki0">
